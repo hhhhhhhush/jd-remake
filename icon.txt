@@ -1,0 +1,1 @@
+https://www.jd.com/favicon.ico  在网站主页后写入favicon.ico可获取
